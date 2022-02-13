@@ -1,2 +1,2 @@
-# sankarasettiramya.github.io
+# ramya.github.io
 Ramya's GitHub Website
